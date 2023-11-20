@@ -1,2 +1,2 @@
-# Local-Image-Feature-Extraction-and-Matching-for-Correspondence-Estimation-fand-3D-Reconstruction
+# Local-Image-Feature-Extraction-and-Matching-for-Correspondence-Estimation-and-3D-Reconstruction
 This repository contains my master's thesis work and relevant resources. Here, I explore correspondence estimation in sparse methods, specifically focusing on local features. We assess the role of robust correspondences in computer vision tasks, review handcrafted and learned feature extraction methods, and introduce the Multi-Scale Keypoint (MSK) extractor. MSK utilizes convolutional neural networks to extract robust keypoints, demonstrating superior performance in multi-view stereo tasks and dense reconstruction. 
